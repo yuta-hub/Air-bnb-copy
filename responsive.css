@@ -1,0 +1,590 @@
+@media all and (max-width: 1127px) {
+  .space {
+    display: none;
+  }
+
+  .nav-bar {
+    visibility: hidden;
+  }
+
+  /* top */
+  .top-head {
+    height: 280px;
+  }
+
+  .search-box {
+    margin: 280px auto 48px auto;
+    width: 100%;
+    height: auto;
+    padding: 0 auto;
+    clear: both;
+  }
+
+  .search-box>h1 {
+    margin: -65px 89px 47px;
+    position: static;
+    font-size: 34px;
+    font-weight: 800;
+    color: #ffffff;
+    max-width: 863.3px;
+
+  }
+
+  .margin {
+    margin: 0 auto;
+    max-width: 696px;
+  }
+
+  .margin2 {
+    margin: 63px auto 30px auto;
+  }
+
+  .room-type {
+    width: 59.8%;
+  }
+
+  .start-2 {
+    width: 100%;
+  }
+
+  .main {
+    margin-top: 300px;
+  }
+
+  .hook {
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto 0 auto;
+    padding: 0 80px;
+    max-width: 696px;
+  }
+
+  .why {
+    width: 100%;
+    margin: 0 0 32px 0;
+
+  }
+
+  .support {
+    width: 100%;
+    margin-right: 0;
+  }
+
+  /* steps */
+
+  .title {
+    font-size: 40px;
+    line-height: 40px;
+    margin-bottom: 48px;
+    max-width: 696px;
+  }
+
+  .steps {
+    flex-direction: column;
+    margin-bottom: 72px;
+  }
+
+  .step1, .step2, .step3 {
+    width: 100%;
+    margin: 0 auto 48px ;
+    max-width: 536px;
+  }
+
+
+  /* comment */
+
+  .gurantee {
+    margin-bottom: 120px;
+  }
+
+  .comment {
+    max-width: 272px;
+    margin-right: 52px;
+  }
+
+  .comment>i {
+    font-size: 1.5em;
+    padding: 0;
+    margin-bottom: 8px;
+  }
+
+  .comment-1 {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  .comment>p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    margin: 14px 0;
+  }
+
+  .dennis>img {
+    height: 324px;
+    width: 324px;
+  }
+
+  .line {
+    margin-bottom: 24px;
+  }
+
+  /* safety */
+
+  .safety {
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:  60px;
+    max-width: 696px;
+  } 
+
+  .safety-left {
+    width: 100%;
+    margin: 0 auto 32px;
+  }
+
+  .safety-right {
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  .image-2 {
+    margin-bottom: 120px;
+  }
+
+  .image-2>img {
+    object-fit: cover;
+    margin: 0 auto;
+    width: 648px;
+    height: 411px;
+  }
+
+  /* payment */
+
+  .payment {
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto 120px;
+    max-width: 696px;
+  }
+
+  .setting, .fee, .quick {
+    margin-right: 0;
+    width: 77%;
+    margin-bottom: 48px;
+    padding: 0 auto;
+  }
+
+  .quick {
+    margin-bottom: 0;
+  }
+
+  /* comment */
+
+  .reform {
+    margin-bottom: 72px;
+  }
+
+  .comment-t {
+    max-width: 265px;
+    width: 100%;
+    margin-top: 37px;
+  }
+
+  .comment-t>i {
+    font-size: 1.5em;
+    padding: 0;
+    margin-bottom: 8px;
+  }
+
+  .comment-2 {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  .comment-2>p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    margin: 14px 0;
+  }
+
+  .tessa>img {
+    height: 324px;
+    width: 324px;
+    margin-right: 52px;
+  }
+
+  /* members */
+
+  .numbers {
+    margin: 0 auto 120px;
+    flex-basis: 33.3%;
+    max-width: 696px;
+  }
+  
+  .host, .accomodation, .new {
+    
+    font-size: 40px;
+    line-height: 40px;
+    width: 32%;
+  }
+
+  .host>p, .accomodation>p, .new>p {
+    font-size: 14px;
+    line-height: 18px;
+    margin: 14px 0;
+  }
+
+  .host, .accomodation {
+    margin-right: 16px;
+  }
+
+  /* about */
+
+  .about {
+    margin: 0 auto 120px;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 696px;
+  }
+
+  .airbnb, .hosting {
+    width: 83%;
+    margin-right: 0;
+  }
+
+  .airbnb {
+    margin-bottom: 48px;
+  }
+
+  .hosting {
+    padding-left: 0;
+  }
+
+  /* faq */
+
+  .faqs {
+    margin: 0 239px 72px;
+    justify-content: left;
+  }
+
+  .left-faq, .right-faq {
+    width: 100%;
+  }
+
+  .faq {
+    width: 100%;
+    margin-left: 0;
+  }
+  .faq>a {
+    font-size: 16px;
+  }
+
+  /* details */
+
+  .margin3 {
+    margin: 0 auto 72px;
+    max-width: 696px;
+  }
+
+  .preparation, .safetyness, .money-plan {
+    background-color: transparent;
+    border: 1px solid rgba(0,0,0,0.1);
+    border-radius: 3px;
+    box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.06);
+    font-size: 14px;
+  }
+
+  .detail {
+    padding: 0 16px;
+  }
+
+  .detail>div {
+    margin-top: 8px;
+    font-size: 14px;
+    line-height: 20.02px;  
+  }
+
+  .detail>a {
+    display: none;
+  }
+
+  .preparation>p, .safetyness>p, .money-plan>p {
+    font-size: 14px;
+    line-height: 20.02px;  
+  }
+
+  .preparation {
+    height: 80%;
+  }
+
+  /* more */
+
+  .more {
+    margin-bottom: 48px;
+  }
+  .margin-4 {
+    margin: 0 239px;
+  }
+
+  .margin-5 {
+    margin-right: 311px;
+  }
+
+  .coming {
+    font-size: 40px;
+    line-height: 40px;
+    margin: 0 0 32px 0;
+  }
+
+  .listing {
+    margin-left: 0;
+  }
+
+  /* footer */
+  /* footer-up */
+
+  footer {
+    padding: 0 40px;
+  }
+
+  .footer-up {
+    padding: 40px 0;
+    flex-direction: column;
+  }
+
+  .company-info, .community, .footer-host {
+    padding-bottom: 24px;
+    border-bottom: 1px solid #DDDDDD;
+    margin-bottom: 24px;
+  }
+
+  .company-info>ul, .community>ul, .footer-host>ul, .footer-support>ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .company-info>ul>li, .community>ul>li, .footer-host>ul>li, .footer-support>ul>li {
+    flex-basis: 33.3%;
+    margin-top: 12px;
+  }  
+
+  /* footer-bottom */
+
+  .footer-bottom {
+    flex-direction: column-reverse;
+    align-items: center;
+    text-align: center;
+  }
+
+  .footer-bottom-left {
+    width: 100%;
+  }
+
+  .copy-right>a>br {
+    display: none;
+  }
+
+  .hide {
+    display: none;
+  }
+
+  .jp {
+    margin-right: 32px;
+  }
+}
+
+@media all and (max-width: 744px) {
+
+  .room-type {
+    margin-right: 18px;
+    margin-bottom: 8px;
+    width: 100%;
+  }
+
+  .guest-number {
+    width: 100%;
+  }
+
+  .margin {
+    margin: 0 24px;
+  }
+
+  .hook {
+    margin: 0 24px;
+    padding: 0;
+  }
+
+  .line {
+    margin: 64px 0 24px 24px;
+    
+  }
+
+  .title {
+    text-align: left;
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+
+  .steps {
+    margin-bottom:  48px;
+  }
+
+  .step1, .step2, .step3 {
+    width: 100%;
+    max-width: 696px;
+  }
+
+  .gurantee {
+    flex-direction: column-reverse;
+    margin: 0 24px 96px;
+  }
+
+  .comment {
+    margin-top: 12px;
+    width: 100%;
+    max-width: none;
+  }
+
+  .dennis>img {
+    height: 100%;
+    width: 100%;
+  }
+
+  .safety {
+    margin-bottom: 64px;
+  }
+
+  .image-2 {
+    margin: 0 24px;
+    padding-bottom: 32px;
+  }
+
+  .image-2>img {
+    width: 671.3px;
+    height: 671.3px;
+    object-fit: cover;
+  }
+
+  .payment {
+    margin: 0 24px 96px;
+  }
+
+  .setting, .fee, .quick {
+    width: 100%;
+  }
+
+  .reform {
+    flex-direction: column-reverse;
+    margin: 0 24px 64px;
+  }
+
+  .comment-t {
+    max-width: none;
+    width: 100%;
+    margin-top: 12px;
+  }
+
+  .tessa>img {
+    width: 100%;
+    height: 100%;
+    margin-right: 0;
+  }
+
+  .numbers {
+    flex-direction: column;
+    justify-content: left;
+    margin: 0 24px;
+    padding-bottom: 32px;
+  }
+
+  .host, .accomodation, .new {
+    margin-bottom: 48px;
+    text-align: left;
+  }
+
+  .new {
+    margin-bottom: 0;
+  }  
+
+  .about {
+    margin: 0 24px;
+    padding-bottom: 32px;
+  }
+
+  .airbnb, .hosting {
+    width: 100%;
+  }
+
+  .faqs {
+    margin: 0 24px 64px;
+  }
+
+  .margin3 {
+    margin: 0 24px 64px;
+    max-width: none;
+  }
+
+  .details {
+    flex-direction: column;
+  }
+
+  .preparation, .safetyness, .money-plan {
+    display: flex;
+    width: 100%;
+    margin-bottom: 16px;
+    
+  }
+
+  .preparation>img, .safetyness>img, .money-plan>img {
+    width: 76px;
+    height: 76px;
+  }
+
+  .margin-4 {
+    margin: 0 32px;
+  }
+
+  .margin-5 {
+    margin-right: 341px;
+  }
+
+  .coming {
+    margin: 0;
+    padding: 64px 0 32px 0;
+  }
+
+  /* footer  */
+
+  footer {
+    padding: 0 24px;
+  }
+
+  .company-info>ul, .community>ul, .footer-host>ul, .footer-support>ul {
+    display: initial;
+  }
+
+  .footer-bottom {
+    text-align: left;
+    align-items: initial;
+  }
+
+  .footer-icon {
+    display: none;
+  }
+
+  .hide {
+    display: initial;
+  }
+
+  .br::after {
+    content: "\A";
+    white-space: pre;
+  }
+
+  .first-dot {
+    display: none;
+  }
+}
