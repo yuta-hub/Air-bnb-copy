@@ -94,6 +94,10 @@ body{
   clear: both;
 }
 
+.search-box>h1 {
+  margin: 32px 32px 0 32px;
+}
+
 .margin {
   margin: 32px;
 }
